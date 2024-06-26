@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "667c4014816b9c3505d74fff"
+  },
+  "date": "2020-10-05",
+  "time": "10:00",
+  "title": "JavaScript - Day -1 : Introduction to Browser & web",
+  "absentees": "3"
+},
+{
+  "_id": {
+    "$oid": "667c4014816b9c3505d75000"
+  },
+  "date": "2020-10-06",
+  "time": "10:00",
+  "title": "JavaScript - Day -2 : Request & Response cycle",
+  "absentees": "2"
+},
+{
+  "_id": {
+    "$oid": "667c4014816b9c3505d75001"
+  },
+  "date": "2020-10-12",
+  "time": "10:00",
+  "title": "JavaScript - Day -3 : Functions",
+  "absentees": "0"
+},
+{
+  "_id": {
+    "$oid": "667c4014816b9c3505d75002"
+  },
+  "date": "2020-10-17",
+  "time": "10:00",
+  "title": "HTML- Day -1 : HTML",
+  "absentees": "1"
+},
+{
+  "_id": {
+    "$oid": "667c4014816b9c3505d75003"
+  },
+  "date": "2020-10-18",
+  "time": "10:00",
+  "title": "HTML- Day -2 : CSS",
+  "absentees": "3"
+},
+{
+  "_id": {
+    "$oid": "667c4014816b9c3505d75004"
+  },
+  "date": "2020-10-19",
+  "time": "11:00",
+  "title": "HTML- Day -3 : Bootstrap",
+  "absentees": "0"
+},
+{
+  "_id": {
+    "$oid": "667c4014816b9c3505d75005"
+  },
+  "date": "2020-10-22",
+  "time": "10:00",
+  "title": "React- Day -1 : ES5 vs ES6",
+  "absentees": "2"
+},
+{
+  "_id": {
+    "$oid": "667c4014816b9c3505d75006"
+  },
+  "date": "2020-10-23",
+  "time": "10:00",
+  "title": "React- Day -2 : JSX",
+  "absentees": "0"
+},
+{
+  "_id": {
+    "$oid": "667c4014816b9c3505d75007"
+  },
+  "date": "2020-10-24",
+  "time": "10:00",
+  "title": "React- Day -3 : Components",
+  "absentees": "0"
+},
+{
+  "_id": {
+    "$oid": "667c4014816b9c3505d75008"
+  },
+  "date": "2020-11-03",
+  "time": "10:00",
+  "title": "MySQL- Day -1 : Database - MySQL",
+  "absentees": "2"
+}]

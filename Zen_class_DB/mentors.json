@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "667c406c816b9c3505d7501d"
+  },
+  "name": "sanjay",
+  "mail": "sanjay@gmail.com",
+  "course": [
+    "MEAN",
+    "MERN",
+    "SQL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c406c816b9c3505d7501e"
+  },
+  "name": "vikram",
+  "mail": "vikram@gmail.com",
+  "course": [
+    "PYTHON",
+    "MERN",
+    "SQL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c406c816b9c3505d7501f"
+  },
+  "name": "Velmurugan",
+  "mail": "velu@gmail.com",
+  "course": [
+    "nodejs",
+    "html",
+    "css"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c406c816b9c3505d75020"
+  },
+  "name": "Venkat",
+  "mail": "venkat@gmail.com",
+  "course": [
+    "MEAN",
+    "MERN",
+    "SQL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c406c816b9c3505d75021"
+  },
+  "name": "Vishnu",
+  "mail": "vishnu@gmail.com",
+  "course": [
+    "MEAN",
+    "MERN",
+    "SQL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c406c816b9c3505d75022"
+  },
+  "name": "priya",
+  "mail": "priya@gmail.com",
+  "course": [
+    "MEAN",
+    "MERN",
+    "SQL"
+  ]
+}]

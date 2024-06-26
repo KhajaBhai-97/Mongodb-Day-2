@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "667c405a816b9c3505d75015"
+  },
+  "company": "TCS",
+  "location": "Bangalore",
+  "drive_date": "2020-10-18",
+  "drive_absentees": [
+    "ginny@gmail.com",
+    "harry@gmail.com"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c405a816b9c3505d75016"
+  },
+  "company": "CTS",
+  "location": "Chennai",
+  "drive_date": "2020-10-22",
+  "drive_absentees": [
+    "hermoine@gmail.com",
+    "monisha@gmail.com"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c405a816b9c3505d75017"
+  },
+  "company": "Wipro",
+  "location": "Coimbatore",
+  "drive_date": "2020-10-28",
+  "drive_absentees": [
+    "kavya@gmail.com",
+    "mamooty@gmail.com"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c405a816b9c3505d75018"
+  },
+  "company": "Intellect",
+  "location": "Trichy",
+  "drive_date": "2020-10-28",
+  "drive_absentees": [
+    "vijay@gmail.com"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c405a816b9c3505d75019"
+  },
+  "company": "Congruent",
+  "location": "Noida",
+  "drive_date": "2020-10-30",
+  "drive_absentees": []
+},
+{
+  "_id": {
+    "$oid": "667c405a816b9c3505d7501a"
+  },
+  "company": "Wallmart",
+  "location": "Visagapattinam",
+  "drive_date": "2020-11-10",
+  "drive_absentees": [
+    "voldemort@gmail.com"
+  ]
+}]

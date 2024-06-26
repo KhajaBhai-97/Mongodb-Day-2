@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "667c4042816b9c3505d7500b"
+  },
+  "topics": "Input/Output",
+  "total_qnos": "10",
+  "total_geek_points": "540",
+  "total_submissions": "280731"
+},
+{
+  "_id": {
+    "$oid": "667c4042816b9c3505d7500c"
+  },
+  "topics": "Absolute Beginner",
+  "total_qnos": "30",
+  "total_geek_points": "570",
+  "total_submissions": "509808"
+},
+{
+  "_id": {
+    "$oid": "667c4042816b9c3505d7500d"
+  },
+  "topics": "Array",
+  "total_qnos": "308",
+  "total_geek_points": "16310",
+  "total_submissions": "684962"
+},
+{
+  "_id": {
+    "$oid": "667c4042816b9c3505d7500e"
+  },
+  "topics": "Basics",
+  "total_qnos": "41",
+  "total_geek_points": "1570",
+  "total_submissions": "385455"
+},
+{
+  "_id": {
+    "$oid": "667c4042816b9c3505d7500f"
+  },
+  "topics": "Looping",
+  "total_qnos": "14",
+  "total_geek_points": "500",
+  "total_submissions": "158375"
+},
+{
+  "_id": {
+    "$oid": "667c4042816b9c3505d75010"
+  },
+  "topics": "Mathematics",
+  "total_qnos": "192",
+  "total_geek_points": "8810",
+  "total_submissions": "581372"
+}]

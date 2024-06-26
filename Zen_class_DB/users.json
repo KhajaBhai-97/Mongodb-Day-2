@@ -1,0 +1,272 @@
+[{
+  "_id": {
+    "$oid": "667c40ba816b9c3505d75040"
+  },
+  "name": "harry",
+  "mail": "harry@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 75,
+  "attendence_percent": 80,
+  "tasks_completed_count": 10
+},
+{
+  "_id": {
+    "$oid": "667c40ba816b9c3505d75041"
+  },
+  "name": "hermoine",
+  "mail": "hermoine@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 85,
+  "attendence_percent": 90,
+  "tasks_completed_count": 11
+},
+{
+  "_id": {
+    "$oid": "667c40ba816b9c3505d75042"
+  },
+  "name": "ron",
+  "mail": "ron@gmail.com",
+  "course": "MERN",
+  "batch": "FSD55WD-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 60,
+  "attendence_percent": 80,
+  "tasks_completed_count": 9
+},
+{
+  "_id": {
+    "$oid": "667c40ba816b9c3505d75043"
+  },
+  "name": "draco",
+  "mail": "draco@gmail.com",
+  "course": "MERN",
+  "batch": "FSD54WD-E",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 70,
+  "attendence_percent": 80,
+  "tasks_completed_count": 5
+},
+{
+  "_id": {
+    "$oid": "667c40ba816b9c3505d75044"
+  },
+  "name": "ginny",
+  "mail": "ginny@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 80,
+  "attendence_percent": 80,
+  "tasks_completed_count": 7
+},
+{
+  "_id": {
+    "$oid": "667c40ba816b9c3505d75045"
+  },
+  "name": "voldemort",
+  "mail": "voldemort@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 60,
+  "attendence_percent": 70,
+  "tasks_completed_count": 10
+},
+{
+  "_id": {
+    "$oid": "667c40ba816b9c3505d75046"
+  },
+  "name": "monisha",
+  "mail": "monisha@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 70,
+  "attendence_percent": 80,
+  "tasks_completed_count": 12
+},
+{
+  "_id": {
+    "$oid": "667c40ba816b9c3505d75047"
+  },
+  "name": "thiru",
+  "mail": "thiru@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 75,
+  "attendence_percent": 80,
+  "tasks_completed_count": 5
+},
+{
+  "_id": {
+    "$oid": "667c40ba816b9c3505d75048"
+  },
+  "name": "kavya",
+  "mail": "kavya@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 70,
+  "attendence_percent": 80,
+  "tasks_completed_count": 5
+},
+{
+  "_id": {
+    "$oid": "667c40ba816b9c3505d75049"
+  },
+  "name": "mamooty",
+  "mail": "mamooty@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 74,
+  "attendence_percent": 92,
+  "tasks_completed_count": 7
+},
+{
+  "_id": {
+    "$oid": "667c40ba816b9c3505d7504a"
+  },
+  "name": "vijay",
+  "mail": "vijay@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 78,
+  "attendence_percent": 83,
+  "tasks_completed_count": 8
+},
+{
+  "_id": {
+    "$oid": "667c5ab8816b9c3505d75068"
+  },
+  "name": "raja",
+  "mail": "raja@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 70,
+  "attendence_percent": 80,
+  "tasks_completed_count": 5
+},
+{
+  "_id": {
+    "$oid": "667c5ab8816b9c3505d75069"
+  },
+  "name": "rahul",
+  "mail": "rahul@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 110,
+  "attendence_percent": 80,
+  "tasks_completed_count": 10
+},
+{
+  "_id": {
+    "$oid": "667c5ab8816b9c3505d7506a"
+  },
+  "name": "david",
+  "mail": "david@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 110,
+  "attendence_percent": 80,
+  "tasks_completed_count": 10
+},
+{
+  "_id": {
+    "$oid": "667c5ab8816b9c3505d7506b"
+  },
+  "name": "james anand",
+  "mail": "jamesanand@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 210,
+  "attendence_percent": 80,
+  "tasks_completed_count": 10
+},
+{
+  "_id": {
+    "$oid": "667c5ab8816b9c3505d7506c"
+  },
+  "name": "meena",
+  "mail": "meena@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "sanjay",
+    "email": "sanjay@gmail.com"
+  },
+  "codekata": 210,
+  "attendence_percent": 80,
+  "tasks_completed_count": 10
+},
+{
+  "_id": {
+    "$oid": "667c5ab8816b9c3505d7506d"
+  },
+  "name": "jeya",
+  "mail": "jeya@gmail.com",
+  "course": "MERN",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "Venkat",
+    "email": "venkat@gmail.com"
+  },
+  "codekata": 210,
+  "attendence_percent": 80,
+  "tasks_completed_count": 10
+}]
